@@ -1,3 +1,4 @@
+## GitHub のアカウントを作成
 
 GitHub にアクセスする。
 
@@ -35,3 +36,5 @@ Create account ボタンをクリックする。
 登録したメールアドレスに届いているコード番号を入力する。
 
 ![届いているコード番号を入力](./images/enter-the-code-number-received.png)
+
+以上。
